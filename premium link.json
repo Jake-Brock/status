@@ -1,18 +1,18 @@
 [
   {
     "id": "essential",
-    "name": "Essential",
+    "name": "FREE",
     "price": "Free",
     "period": " / forever",
     "recommended": false,
     "link": "#",
     "btnText": "Current Plan",
     "features": [
-      { "text": "1 Key per 24 Hours", "active": true },
-      { "text": "Standard Injection Speed", "active": true },
-      { "text": "Basic Script Support", "active": true },
+      { "text": "1 Key per 28 Hours", "active": true },
+      { "text": "Standard supports", "active": true },
+      { "text": "Supports all scripts", "active": true },
       { "text": "Ad-Free Experience", "active": false },
-      { "text": "Priority Support", "active": false }
+      { "text": "Exclusive role in our discord server", "active": false }
     ]
   },
   {
@@ -21,14 +21,14 @@
     "price": "$9.99",
     "period": " / month",
     "recommended": false,
-    "link": "https://example.com/buy-prime",
+    "link": "https://fluxusz.mysellauth.com/product/frostware-prime-tier",
     "btnText": "Get Prime",
     "features": [
-      { "text": "Unlimited Key Generation", "active": true },
-      { "text": "Fast Injection Speed", "active": true },
-      { "text": "100% Ad-Free", "active": true },
-      { "text": "Cloud Script Hub Access", "active": true },
-      { "text": "Developer Mode", "active": false }
+      { "text": "3 monthly Key Generation", "active": true },
+      { "text": "Exclusive role in our discord server", "active": true },
+      { "text": "AD-Free experience", "active": true },
+      { "text": "Priority support", "active": true },
+      { "text": "Unlimited HWID reset", "active": false }
     ]
   },
   {
@@ -37,13 +37,13 @@
     "price": "$24.99",
     "period": " / lifetime",
     "recommended": true,
-    "link": "https://example.com/buy-titanium",
+    "link": "https://fluxusz.mysellauth.com/product/frostware-titanium-tier",
     "btnText": "Get Titanium",
     "features": [
-      { "text": "No Keys Required", "active": true, "bold": true },
-      { "text": "Instant Injection", "active": true },
-      { "text": "Exclusive Titan Script Hub", "active": true },
-      { "text": "Hardware ID Reset (1/week)", "active": true },
+      { "text": "12 lifetime generatable keys", "active": true, "bold": true },
+      { "text": "Unlimited HWID reset", "active": true },
+      { "text": "Exclusive role in iour discord server", "active": true },
+      { "text": "Direct contact with our developers and owners", "active": true },
       { "text": "24/7 Priority Support", "active": true }
     ]
   }
